@@ -1,0 +1,18 @@
+{
+  "name": "puzzles",
+  "version": "1.0.0",
+  "description": "A place to play",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "Nick Twyman",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^4.0.2"
+  },
+  "dependencies": {
+    "mathjs": "^5.4.2"
+  }
+}
