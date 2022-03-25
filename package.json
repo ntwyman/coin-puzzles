@@ -11,7 +11,7 @@
   "author": "Nick Twyman",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^9.4.0"
+    "electron": "^13.6.6"
   },
   "dependencies": {
     "mathjs": "^7.1.0"
